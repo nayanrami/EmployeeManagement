@@ -89,10 +89,10 @@ WebContent/
    * Use as a Dynamic Web Project.
 3. **Configure MySQL**
 
-   * Import the SQL script provided in `/database/employee.sql`.
+   * Import the SQL script provided in `/database/erp_db`.
 4. **Update DB Config**
 
-   * Modify the `DBConnection.java` file with your local database credentials.
+   * Modify the `EmployeeDAOImpl() : in Class EmployeeDAOImpl` file with your local database credentials.
 5. **Deploy on Apache Tomcat**
 
 ---
