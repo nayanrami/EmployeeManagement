@@ -1,7 +1,3 @@
-Here's a professional and detailed **GitHub repository description** for your **Employee Management System** project using **MySQL, Bootstrap, MVC architecture, and Prepared Statements in Advanced Java**:
-
----
-
 ## 📋 Employee Management System – Advanced Java | MVC | MySQL | Bootstrap
 
 ### 🔧 Project Overview
