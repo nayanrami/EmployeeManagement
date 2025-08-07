@@ -32,3 +32,13 @@ footer {
 .fullwidth {
 	width: 100%;
 }
+
+.msg_success {
+	text-align: center;
+	color: green;
+}
+
+.msg_error {
+	text-align: center;
+	color: red;
+}

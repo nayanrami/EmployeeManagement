@@ -10,10 +10,11 @@
 			<div class="card">
 				<div class="card-header">Customer Login</div>
 				<div class="card-body">
-					<form action="/AuthenticateServlet" method="post">
+					<form action="AuthenticateServlet" method="post">
 						<table class="table table-borderless">
 							<tr>
-								<td>${SUCCESS}</td>
+								<td><span class="msg_success">${SUCCESS}</span> <span
+									class="msg_error">${ERROR}</span></td>
 							</tr>
 
 							<tr>
